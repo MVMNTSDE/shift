@@ -1,0 +1,16 @@
+.main-content {
+  padding: 20px;
+  margin-left: 220px; /* Platz für die Sidebar */
+  background-color: #333; /* Dunkler Hintergrund */
+}
+
+.main-content section {
+  margin-bottom: 40px;
+}
+
+.main-content h2,
+.main-content p,
+.main-content ul,
+.main-content ul li {
+  color: white; /* Weißer Text */
+}
