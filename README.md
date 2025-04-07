@@ -22,8 +22,8 @@ Wir bauen ein Ökosystem, in dem Kreativität nicht nur sichtbar, sondern messba
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** Webflow (CDN, CMS Collections)
-- **Backend:** REST API (Node.js/Express geplant), Firebase (auth optional)
+- **Frontend:** React
+- **Backend:** Node.js/Express
 - **CMS Collections:**
   - Users, Creatives, Corporate Dashboards, Network Activities, Achievements, Engagements, Skills, Job Listings, Clients, Client Reviews, Impact Scores, Portfolios, Related Tools
 - **Analytics & Tracking:** Google Analytics 4, Google Tag Manager
@@ -36,7 +36,37 @@ Wir verwenden KI-basierte Empfehlungen, um:
 - aufkommende Talente frühzeitig zu erkennen
 - Engagement- & Impact-Werte zu analysieren
 
-## 📦 Installation (coming soon)
+## 📦 Installation
+
+Um die v0-Komponenten zu integrieren, folgen Sie diesen Schritten:
+
+1. **Repository klonen**:
+   ```bash
+   git clone https://github.com/mvmnts/app.git
+   cd app
+   ```
+
+2. **Abhängigkeiten installieren**:
+   ```bash
+   npm install
+   ```
+
+3. **v0-Komponenten hinzufügen**:
+   Fügen Sie die v0-Komponenten-Links hier ein:
+   - [Komponente 1](#)
+   - [Komponente 2](#)
+   - [Komponente 3](#)
+
+4. **Entwicklungsserver starten**:
+   ```bash
+   npm run dev
+   ```
+
+## 🔗 Links
+
+- [Dokumentation](#)
+- [Support](#)
+- [GitHub Issues](#)
 
 ```bash
 git clone https://github.com/mvmnts/app.git
